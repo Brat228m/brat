@@ -1,0 +1,75 @@
+﻿<Window x:Class="Dantist.EditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dantist"
+        mc:Ignorable="d"
+        Title="Окно редактирования"
+        Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#FFE8F9FF">
+        <StackPanel>
+            <Label Content="Тип приёма:"
+                    FontFamily="Comic Sans MS" />
+            <ComboBox
+                ItemsSource="{Binding ProductTypes}"
+                SelectedItem="{Binding CurrentProduct.ProductType}"
+                    FontFamily="Comic Sans MS" >
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <Label Content="{Binding Title}"
+                    FontFamily="Comic Sans MS" />
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Label 
+                Content="Название:"
+                    FontFamily="Comic Sans MS" />
+            <TextBox 
+                Height="20"
+                Text="{Binding CurrentProduct.Title}"
+                    FontFamily="Comic Sans MS" />
+            <Label 
+                Content="Артикул:"
+                    FontFamily="Comic Sans MS" />
+            <TextBox 
+                Height="20" 
+                Text="{Binding CurrentProduct.ArticleNumber}"
+                    FontFamily="Comic Sans MS" />
+            <Label 
+                Content="Дата приёма:"
+                    FontFamily="Comic Sans MS" />
+            <TextBox 
+                Height="20"
+                Text="{Binding CurrentProduct.DatePriem}"
+                    FontFamily="Comic Sans MS" />
+            <Label 
+                Content="Минимальная цена для агента:"
+                    FontFamily="Comic Sans MS" />
+            <TextBox 
+                Height="20"
+                Text="{Binding CurrentProduct.MinCostForAgent}"
+                    FontFamily="Comic Sans MS" />
+        </StackPanel>
+        <StackPanel VerticalAlignment="Bottom">
+
+            <Button
+                x:Name="SaveButton" 
+                Content="Сохранить"
+                Click="SaveButton_Click"
+                Margin="3"
+                Background="LightBlue" 
+                FontFamily="Comic Sans MS" 
+                FontSize="16"/>
+            <Button 
+                x:Name="BackButton"
+                Content="Назад"
+                Click="BackButton_Click"
+                Margin="3"
+                Background="LightBlue" 
+                FontFamily="Comic Sans MS" 
+                FontSize="16"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,78 @@
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist.csprojAssemblyReference.cache
+C:\Users\dimak\source\repos\Dantist\obj\Debug\MainWindow.g.cs
+C:\Users\dimak\source\repos\Dantist\obj\Debug\App.g.cs
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist_Content.g.cs
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist_MarkupCompile.cache
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist_MarkupCompile.lref
+C:\Users\dimak\source\repos\Dantist\obj\Debug\AddWindow.g.cs
+C:\Users\dimak\source\repos\Dantist\obj\Debug\EditWindow.g.cs
+C:\Users\dimak\source\repos\Dantist\bin\Debug\Dantist.exe.config
+C:\Users\dimak\source\repos\Dantist\bin\Debug\Dantist.exe
+C:\Users\dimak\source\repos\Dantist\bin\Debug\Dantist.pdb
+C:\Users\dimak\source\repos\Dantist\bin\Debug\EntityFramework.dll
+C:\Users\dimak\source\repos\Dantist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimak\source\repos\Dantist\bin\Debug\EntityFramework.xml
+C:\Users\dimak\source\repos\Dantist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimak\source\repos\Dantist\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dimak\source\repos\Dantist\obj\Debug\MainWindow.baml
+C:\Users\dimak\source\repos\Dantist\obj\Debug\AddWindow.baml
+C:\Users\dimak\source\repos\Dantist\obj\Debug\EditWindow.baml
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist.g.resources
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist.Properties.Resources.resources
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist.csproj.GenerateResource.cache
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist.csproj.CoreCompileInputs.cache
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist.csproj.CopyComplete
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist.exe
+C:\Users\dimak\source\repos\Dantist\obj\Debug\Dantist.pdb
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\bin\Debug\Dantist.exe.config
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\bin\Debug\Dantist.exe
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\bin\Debug\Dantist.pdb
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\bin\Debug\EntityFramework.dll
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\bin\Debug\EntityFramework.xml
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist.csprojAssemblyReference.cache
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\AddWindow.g.cs
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\EditWindow.g.cs
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\MainWindow.g.cs
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\App.g.cs
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist_Content.g.cs
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist_MarkupCompile.cache
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist_MarkupCompile.lref
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\AddWindow.baml
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\EditWindow.baml
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\MainWindow.baml
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist.g.resources
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist.Properties.Resources.resources
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist.csproj.GenerateResource.cache
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist.csproj.CoreCompileInputs.cache
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist.csproj.CopyComplete
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist.exe
+C:\Users\dimak\Desktop\weqweqweqw\Dantist\obj\Debug\Dantist.pdb
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\bin\Debug\Dantist.exe.config
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\bin\Debug\Dantist.exe
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\bin\Debug\Dantist.pdb
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist.csprojAssemblyReference.cache
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\AddWindow.g.cs
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\EditWindow.g.cs
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\App.g.cs
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist_Content.g.cs
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist_MarkupCompile.cache
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist_MarkupCompile.lref
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\AddWindow.baml
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\EditWindow.baml
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\MainWindow.baml
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist.g.resources
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist.Properties.Resources.resources
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist.csproj.GenerateResource.cache
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist.csproj.CopyComplete
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist.exe
+C:\Users\Максим\Downloads\Telegram Desktop\Zaliv\weqweqweqw\Dantist\obj\Debug\Dantist.pdb
