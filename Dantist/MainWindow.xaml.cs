@@ -257,7 +257,10 @@ namespace Dantist
                     PropertyChanged(this, new PropertyChangedEventArgs("ProductList"));
                 }
             }
-            catch { }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка: {ex.Message}");
+            }
 
         }
 
