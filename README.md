@@ -148,7 +148,7 @@
 - Просмотр данных в базе
 
 ### Диаграмма UseCase:
-![Use case](./img/UseCase.png)
+![Use case](./img/UseCase.PNG)
 ### Диаграмма последовательности:
 ![UML диаграмма](./img/UML.PNG)
 
